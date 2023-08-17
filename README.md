@@ -1,7 +1,7 @@
 # Andrew Kondakov
-### I have been working mainly on PHP, JS (React), MySQL and some Node.js for more than three years. 
+### I have been working mainly on PHP (Laravel), JS (Vue), MySQL and some Node.js for more than three years. 
 
-⤷ I have been working mainly on PHP, JS (React), MySQL and some Node.js for more than two years. In the process of developing my own projects + I am also working on commercial ones
+⤷ I have been working mainly on PHP, JS (Vue), MySQL and some Node.js for more than two years. In the process of developing my own projects + I am also working on commercial ones
 
  <a aligh="left" href="https://kondaaakov.ru" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:kondaaakov@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/kondaaakov" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/kondaaakov" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>  
 
